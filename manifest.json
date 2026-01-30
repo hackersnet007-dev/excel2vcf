@@ -1,0 +1,21 @@
+{
+  "name": "Excel2VCF",
+  "short_name": "Excel2VCF",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "description": "Convert Excel contact lists to VCF format instantly. Created by Prof. Sudhirkumar N. Rathod.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1250/1250592.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1250/1250592.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

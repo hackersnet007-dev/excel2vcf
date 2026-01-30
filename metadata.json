@@ -1,0 +1,5 @@
+{
+  "name": "Excel2VCF",
+  "description": "A robust utility to convert Excel contact lists to VCF format with smart filtering and AI-powered prefix suggestions.",
+  "requestFramePermissions": []
+}
